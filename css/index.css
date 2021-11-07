@@ -41,3 +41,22 @@ u {
     color: green;
     margin-left: 300px;
 }
+.column1 {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.column1 ol li {
+    list-style-type: none;
+}
+
+.column2 {
+    clear: both;
+    width: 50%;
+    text-align: center;
+}
+
+.column3 {
+    margin-left: 300px;
+}
