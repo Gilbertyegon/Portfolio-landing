@@ -26,10 +26,12 @@
 u {
     color: green;
 }
+
 .my_content {
     background-color: lightblue;
     margin-top: -25px;
 }
+
 .my_content img {
     width: 300px;
     height: 300px;
@@ -41,6 +43,7 @@ u {
     color: green;
     margin-left: 300px;
 }
+
 .column1 {
     width: 50%;
     float: left;
@@ -89,4 +92,14 @@ u {
 #projects p {
     font-size: 17px;
     line-height: 30px;
+}
+
+#contact {
+    text-align: center;
+}
+
+.footer {
+    background-color: peru;
+    height: 60px;
+    line-height: 60px;
 }
